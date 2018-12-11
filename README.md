@@ -28,4 +28,4 @@ First of all you need to run the `$ composer install`.
 Then run the following commands in your favorite command line tool :
 
 `$ bin/console doctrine:database:create`
-`$ bin/console doctrine:schema:create`
+`$ bin/console doctrine:schema:create`    
